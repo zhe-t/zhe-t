@@ -1,16 +1,34 @@
-## Hi there 👋
+<h2> Hi, I'm Zhe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!--
-**zhe-t/zhe-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on a lot of things including distributed systems, smart contracts, financial derivatives, OS libraries. 
 
-Here are some ideas to get you started:
+I'm CEO of [SolWorks](https://solworks.dev/) and Founder of [Sujiko](https://sujiko.trade/). I'm also a [Rust](https://www.rust-lang.org/) and [Anchor](https://www.anchor-lang.com/) enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[@zhesolworks](https://twitter.com/zhesolworks) on X and Telegram.
+
+# Things I've built
+### idl-to-typescript-generator: library, CLI and UI for generating TypeScript types from Solana IDLs
+A [library](https://www.npmjs.com/package/@solworks/idl-to-typescript-generator-lib), [CLI](https://www.npmjs.com/package/@solworks/idl-to-typescript-generator-cli) and [GUI](https://idl-type-generator.solworks.dev/) for generating TypeScript types from Solana IDLs. https://www.npmjs.com/package/@solworks/idl-to-typescript-generator
+
+### soltoolkit: a toolkit for building, sending and confirming transactions on Solana
+A helper library for building, sending and confirming transactions on Solana. Manage multiple RPC connections, shotgun transactions, bulk send, send using JITO. https://www.npmjs.com/package/@solworks/soltoolkit-sdk
+
+### spit-cli: quickly convert private keys into readable base58 public keys
+A basic command line tool for quickly converting private keys into readable base58 public keys. https://www.npmjs.com/package/@solworks/spit-cli
+
+### soldisperse: distribute SOL or SPL tokens to multiple wallets 
+A GUI tool to distribute SOL or SPL tokens to multiple wallets with no additional fees.
+https://soldisperse.dev
+
+### eject: UI tool to transfer assets from a wallet without having to load it up with SOL
+A GUI tool that allows you to transfer assets from a wallet without having to load it up with SOL by using an external fee payer. https://eject.solworks.dev
+
+### airdropped.link: airdrop eligibility checker with notifications
+A tool for checking if multiple addresses are eligible for airdrops, without connecting any wallets. Email and telegram notifications are sent for new airdrops. 26+ airdrops, 4+ networks supported. https://airdropped.link
+
+### sujiko: NFT derivatives DEX built with Anchor
+A decentralised exchange (DEX) for NFT perpetual futures enabling traders to long and short blue chip NFT collections with leverage and as little as $1. Built with [Anchor](https://www.anchor-lang.com/). Grizzlython Hackthon DeFi Track Winner. https://sujiko.trade
+
+### solapps (deprecated): mobile-friendly directory of Solana ecosystem projects
+A mobile-friendly directory of Solana ecosystem projects. https://solapps.dev
+
