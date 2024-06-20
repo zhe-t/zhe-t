@@ -13,6 +13,9 @@ A [library](https://www.npmjs.com/package/@solworks/idl-to-typescript-generator-
 ### soltoolkit: a toolkit for building, sending and confirming transactions on Solana
 A helper library for building, sending and confirming transactions on Solana. Manage multiple RPC connections, shotgun transactions, bulk send, send using JITO. https://www.npmjs.com/package/@solworks/soltoolkit-sdk
 
+### bitwise_boolean: a Rust macro to generate bitwise boolean getters and setters for a struct with a single u8 field
+A Rust procedural macro helper (crate)[https://crates.io/crates/bitwise_boolean] to generate bitwise boolean getters and setters for a struct with a single u8 field. Up to 8 boolean flags can be set. https://github.com/SolWorks-Dev/bitwise_boolean
+
 ### spit-cli: quickly convert private keys into readable base58 public keys
 A basic command line tool for quickly converting private keys into readable base58 public keys. https://www.npmjs.com/package/@solworks/spit-cli
 
