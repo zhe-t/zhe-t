@@ -1,7 +1,7 @@
-<h2> Hi, I'm Zhe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Zhe here! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-I'm CEO of [SolWorks](https://solworks.dev/) and [Sujiko](https://sujiko.trade/). I'm also a [Rust](https://www.rust-lang.org/) and [Anchor](https://www.anchor-lang.com/) enthusiast. I work on a lot of things including distributed systems, smart contracts, financial derivatives, OS libraries. Find me on X and Telegram at [@zhesolworks](https://twitter.com/zhesolworks). 
+CEO of [SolWorks](https://solworks.dev/) + [Sujiko](https://sujiko.trade/). [Rust](https://www.rust-lang.org/) and [Anchor](https://www.anchor-lang.com/) enthusiast. I work on a lot of things including distributed systems, smart contracts, financial derivatives, OS libraries. Find me on X and Telegram at [@zhesolworks](https://twitter.com/zhesolworks). 
 
 # Things I've built
 ### 🔄 idl-to-typescript-generator: library, CLI and UI for generating TypeScript types from Solana IDLs
@@ -33,4 +33,3 @@ A decentralised exchange (DEX) for NFT perpetual futures enabling traders to lon
 
 ### 📂 solapps (deprecated): mobile-friendly directory of Solana ecosystem projects
 A mobile-friendly directory of Solana ecosystem projects. https://solapps.dev
-
