@@ -17,7 +17,8 @@
 - 🪂 **[Airdropped](https://airdropped.link)** (140k users) - find eligibile airdrops for your Solana wallets without connecting them.
 - 🧰 **[Soltoolkit](https://www.soltoolkit.dev/)** (269k installs) - Swiss army knife utility library for Solana integrations.
 - 🔑 **[Solgrind](https://github.com/zhe-t/solgrind)** - the fastest Solana vanity address grinder on Apple Silicon (10x faster than solana-keygen).
-- 🔐 **[Solana Protocol Security Framework](https://app.poll.fun/solana-protocol-security-framework)** - CSA STAR/SOC II-derived security framework for Solana protocols, drafted in response to the 2026 Drift security incident. 
+- 🔐 **[Solana Protocol Security Framework](https://app.poll.fun/solana-protocol-security-framework)** - CSA STAR/SOC II-derived security framework for Solana protocols, drafted in response to the 2026 Drift security incident.
+- 📸 **[Peek](https://github.com/zhe-t/peek-mac)** - Reliable screen capture for agents building on Mac. 100% Swift.
 
 ### Previous projects
 - 🍣 **[Sujiko](https://sujiko.trade/)** - Long or short any NFT collection. No longer operational. 
