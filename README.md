@@ -13,7 +13,9 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ### What I'm building
-- 🐰 **[Poll](https://poll.fun)** (9k users) - the betting layer for chat, live on iMessage, Telegram and web.
+- 🐰 **[Poll](https://poll.fun)** (10k users) - the betting layer for chat, live on iMessage, Telegram and web.
+- 🔀 **[Minirouter](https://minirouter.sh)** (new, <1k users) - accountless crypto-first access to 200+ LLM models with a single unified API.
+- 🎙️ **[Dictates](https://dictates.app)** (new, <1k users) - Mac-only speech-to-text dictation that's context aware.
 - 🪂 **[Airdropped](https://airdropped.link)** (140k users) - find eligibile airdrops for your Solana wallets without connecting them.
 - 🧰 **[Soltoolkit](https://www.soltoolkit.dev/)** (269k installs) - Swiss army knife utility library for Solana integrations.
 - 🔑 **[Solgrind](https://github.com/zhe-t/solgrind)** - the fastest Solana vanity address grinder on Apple Silicon (10x faster than solana-keygen).
